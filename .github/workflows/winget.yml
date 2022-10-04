@@ -4,7 +4,8 @@ jobs:
   publish:
     runs-on: windows-latest
     steps:
-      - uses: vedantmgoyal2009/winget-releaser@latest
+      - name: WinGet Releaser
+        uses: vedantmgoyal2009/winget-releaser@v1
         with:
           identifier: ThaUnknown.Miru
           installers-regex: '\.exe$'

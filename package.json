@@ -47,12 +47,12 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "ThaUnknown",
+        "owner": "nlxdodge",
         "repo": "miru"
       }
     ],
     "afterSign": "./build/notarize.js",
-    "appId": "com.github.thaunknown.miru",
+    "appId": "com.github.nlxdodge.miru",
     "productName": "Miru",
     "files": [
       "src/*",
