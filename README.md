@@ -4,7 +4,7 @@
 	</a>
 </h1>
 
-<h4 align="center"><b>Stream anime torrents, real-time with no waiting for downloads</b></h4>
+<h4 align="center"><b>Test Stream anime torrents, real-time with no waiting for downloads</b></h4>
 
 <p align="center">
   <a href="#about">About</a> •
